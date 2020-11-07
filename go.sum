@@ -2,3 +2,5 @@ github.com/afazzdev/go-say-hello v1.0.0 h1:aX3PlOhYqYa04n0AT8SQBNnYgo7sVXdCpwnl+
 github.com/afazzdev/go-say-hello v1.0.0/go.mod h1:vhmZeLa6rMW9AitunXlxboFQfSSOgRqpOIx+jj/iToI=
 github.com/afazzdev/go-say-hello v1.1.0 h1:N2y4cGpdwUFY3GDj1qcW1BeBHbW1g28zb7WtMBx5E7U=
 github.com/afazzdev/go-say-hello v1.1.0/go.mod h1:vhmZeLa6rMW9AitunXlxboFQfSSOgRqpOIx+jj/iToI=
+github.com/afazzdev/go-say-hello/v2 v2.0.0 h1:gA5zRxUnKXInvqwlhHjBP3KqyyspKREdPrXEnwIiDG4=
+github.com/afazzdev/go-say-hello/v2 v2.0.0/go.mod h1:9AKZM3WQGpLzuiCuWwG+ulF7IB/4wLhPZYbhvToBXt4=
